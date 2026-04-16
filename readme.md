@@ -2,6 +2,10 @@
 
 An end-to-end Machine Learning pipeline and interactive Streamlit dashboard that predicts crop yield shifts and calculates catastrophic failure probabilities based on climate stress and pesticide usage.
 
+## 📊 Data Source
+The models in this project were trained using the **Crop Yield Prediction Dataset**, available publicly on Kaggle:
+👉 [Crop Yield Prediction Dataset by patelris](https://www.kaggle.com/datasets/patelris/crop-yield-prediction-dataset)
+
 ## 🚀 Features
 * **Dual XGBoost Architecture:** Features a Regressor for yield delta prediction and a Classifier for failure probability.
 * **Engineered Climate Stress:** Custom feature interactions mapping extreme weather (heat/flood) to crop survivability.
