@@ -1,0 +1,18 @@
+# Environments
+agriforecast-env/
+venv/
+env/
+__pycache__/
+.pytest_cache/
+
+# Datasets (Keep these local!)
+data/raw/
+data/processed/
+*.csv
+*.zip
+
+# Models (Usually too large for GitHub)
+models/*.pkl
+
+# OS generated files
+.DS_Store
