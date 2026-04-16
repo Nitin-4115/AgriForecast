@@ -18,3 +18,7 @@ models/*.pkl
 
 # OS generated files
 .DS_Store
+
+# Output files
+output/
+logs/
